@@ -3,6 +3,14 @@ https://tryhackme.com/p/gabthe
 
 
 
+# TryHackMe SOC Level 1 certificate:
+
+![THM SOC lvl 1](https://github.com/user-attachments/assets/8be721a3-85a6-41d1-9d89-b61afa51c955)
+
+# TryHackMe Advent of Cyber:
+
+![Advent of cyber](https://github.com/user-attachments/assets/8d0f8bd6-6dc0-4f07-957f-7398493a975c)
+
 # TryHackMe Intro Cyber-Security certificate:
 
 ![THM-Intro Cyber Security](https://github.com/user-attachments/assets/668cdc7f-b759-4504-b691-9da569c9d324)
