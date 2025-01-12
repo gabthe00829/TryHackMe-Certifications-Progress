@@ -29,3 +29,8 @@ https://tryhackme.com/p/gabthe
 # TryHackMe Jr Penetration Tester certificate:
 
 ![THM-JrPentester](https://github.com/user-attachments/assets/5731a413-17c3-4e04-adb3-29eb74dde009)
+
+# TryHackMe Cyber Security 101 certificate:
+
+![THM Cybersecurity 101](https://github.com/user-attachments/assets/16bb150e-ecc4-46d2-a557-9adc3c67ce0f)
+
