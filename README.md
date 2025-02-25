@@ -11,6 +11,10 @@ https://tryhackme.com/p/gabthe
 
 ![Advent of cyber](https://github.com/user-attachments/assets/8d0f8bd6-6dc0-4f07-957f-7398493a975c)
 
+# TryHackMe Security Engineer
+
+![THM-Security Engineer](https://github.com/user-attachments/assets/f28b02e5-c1b9-4223-89d1-5cee9c747da6)
+
 # TryHackMe Intro Cyber-Security certificate:
 
 ![THM-Intro Cyber Security](https://github.com/user-attachments/assets/668cdc7f-b759-4504-b691-9da569c9d324)
